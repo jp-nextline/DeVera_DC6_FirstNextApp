@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "my-first-app-devera",
-=======
-  "name": "devera-next",
->>>>>>> 8c1c047be67a0caa336e2b1c6c2fa7bbb1f9196e
   "version": "0.1.0",
   "private": true,
   "scripts": {
