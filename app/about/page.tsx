@@ -5,7 +5,7 @@ export default function AboutPage() {
       <p>
         I am a BSIT student who enjoys learning about
         programming and technology. I am also interested
-        in game development and exploring new ideas.
+        in game development, writing stories, and exploring new ideas.
       </p>
     </main>
   );

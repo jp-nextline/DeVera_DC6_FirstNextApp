@@ -1,6 +1,6 @@
 const projects = [
-{ id: 1, name: "After Away: A Text-Based Adventure Game" },
-{ id: 2, name: "Magic: Hands" },
+{ id: 1, name: "After Away" },
+{ id: 2, name: "Crash Course" },
 { id: 3, name: "Neo Magus" },
 ];
 

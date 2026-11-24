@@ -14,7 +14,7 @@ export default function Home() {
 
       <p>
         I am a BSIT student interested in programming,
-        technology, and game development.
+        technology, writing, and game development.
         I enjoy learning new things and improving
         my skills through different projects.
       </p>
