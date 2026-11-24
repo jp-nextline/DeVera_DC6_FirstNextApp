@@ -11,7 +11,7 @@ export default function ProjectsPage() {
 
             <ul>
                 {projects.map((p) => (
-                <li key={p.id}>- {p.name}</li>
+                <li key={p.id}>•{p.name}</li>
                 ))}
             </ul>
         </main>
